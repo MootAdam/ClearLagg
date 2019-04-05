@@ -15,3 +15,4 @@ permissions:
           clearlagg.command.clearlagg:
             default: op
             description: §8<OP> エンティティ削除
+...
