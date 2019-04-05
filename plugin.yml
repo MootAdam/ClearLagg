@@ -1,0 +1,17 @@
+---
+name: ClearLaggPE
+main: ClearLagg\Loader
+version: 2.0.0
+api: 3.0.0
+permissions:
+  clearlagg:
+    default: op
+    description: §8<OP> エンティティ削除
+    children:
+      clearlagg.command:
+        default: op
+        description: §8<OP> エンティティ削除
+        children:
+          clearlagg.command.clearlagg:
+            default: op
+            description: §8<OP> エンティティ削除
