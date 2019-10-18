@@ -6,13 +6,13 @@ api: 3.0.0
 permissions:
   clearlagg:
     default: op
-    description: §8<OP> エンティティ削除
+    description: §6<§bOP§6>
     children:
       clearlagg.command:
         default: op
-        description: §8<OP> エンティティ削除
+        description: §6<§bOP§6>
         children:
           clearlagg.command.clearlagg:
             default: op
-            description: §8<OP> エンティティ削除
+            description: §6<§bOP§6>
 ...
